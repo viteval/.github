@@ -6,7 +6,7 @@
 Vitest
 </h1>
 <p align="center">
-A blazing fast unit test framework powered by Vite.
+Next generation LLM evaluation framework powered by Vitest.
 <p>
 <div align="center">
   <a href="https://viteval.dev/">Documentation</a> —
