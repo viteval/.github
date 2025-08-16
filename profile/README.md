@@ -3,15 +3,14 @@
 </p>
 
 <h1 align="center">
-Vitest
+Viteval
 </h1>
 <p align="center">
 Next generation LLM evaluation framework powered by Vitest.
 <p>
-<div align="center">
-  <a href="https://viteval.dev/">Documentation</a> —
-  <a href="https://viteval.dev/guide">Getting Started Guide</a> 
-</div>
+<p align="center">
+ <a href="https://viteval.dev">Documentation</a> | <a href="https://viteval.dev/guide/">Getting Started</a> | <a href="https://viteval.dev/examples">Examples</a> | <a href="https://viteval.dev/guide/why">Why Viteval?</a>
+</p>
 
 <!-- Add discord -->
 <!-- <h3 align="center">
