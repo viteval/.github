@@ -9,7 +9,7 @@ Viteval
 Next generation LLM evaluation framework powered by Vitest.
 <p>
 <p align="center">
- <a href="https://viteval.dev">Documentation</a> | <a href="https://viteval.dev/guide/">Getting Started</a> | <a href="https://viteval.dev/examples">Examples</a>
+ <a href="https://viteval.dev">Documentation</a> | <a href="https://viteval.dev/guide/getting-started">Getting Started</a> | <a href="https://viteval.dev/examples">Examples</a>
 </p>
 
 <!-- Add discord -->
